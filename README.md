@@ -1,5 +1,5 @@
 # Numerical-Differentiation-Demo
-Uses centred numerical differentiation to calculate the ground acceleration associated with the ground displacement at each time.
+Uses centred numerical differentiation to calculate the ground acceleration associated with the ground displacement at each time. Acceleration is used to drive the building movement simulation according to the ordinary differential acceleration equation (ODE).
 
 ## Build Environment
 - Visual Studio 2015
